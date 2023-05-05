@@ -8,8 +8,8 @@
 [submodule "lib/proxy-registry"]
 	path = lib/proxy-registry
 	url = https://github.com/indefibank/proxy-registry
-[submodule "lib/ds-weth"]
-	path = lib/ds-weth
+[submodule "lib/ds-wcoin"]
+	path = lib/ds-wcoin
 	url = https://github.com/indefibank/ds-wcoin
 [submodule "lib/dss-gem-joins"]
 	path = lib/dss-gem-joins
