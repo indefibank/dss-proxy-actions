@@ -10,7 +10,7 @@
 	url = https://github.com/indefibank/proxy-registry
 [submodule "lib/ds-wcoin"]
 	path = lib/ds-wcoin
-	url = https://github.com/indefibank/ds-wcoin
+	url = https://github.com/indefibank/ds-wcoin.git
 [submodule "lib/dss-gem-joins"]
 	path = lib/dss-gem-joins
 	url = https://github.com/indefibank/dss-gem-joins
